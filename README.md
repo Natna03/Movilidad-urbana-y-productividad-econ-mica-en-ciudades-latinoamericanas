@@ -78,4 +78,4 @@ Bogotá registró el mayor índice promedio de congestión urbana.
 
 ---
 
-📌 **Notebook:** [`Movilidad_urbana_y_productividad_económica_en_ciudades_latinoamericanas.ipynb`](./Movilidad_urbana_y_productividad_económica_en_ciudades_latinoamericanas.ipynb)
+📌 **Notebook:** [`Movilidad_urbana_y_productividad.ipynb`](./Movilidad_urbana_y_productividad_económica_en_ciudades_latinoamericanas.ipynb)
